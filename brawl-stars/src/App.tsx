@@ -22,57 +22,57 @@ import {
 const REWARDS = [
   {
     title: "ULTRA CHAOS DROPS",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/2/21/Starr_Drop.png",
+    image: "https://i.postimg.cc/Kzk0YBdC/Rare-Chaos-Drop.png",
     subtitle: "LIMITED TIME",
     rare: true
   },
   {
     title: "2000 GEMS",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/d/d3/Gem.png",
+    image: "https://i.postimg.cc/2SBZKTN8/Item-7-1.png",
     subtitle: "MEGA PACK",
     rare: true
   },
   {
     title: "SIRIUS BOX",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/b/b2/Mega_Box.png",
+    image: "https://i.postimg.cc/SRsX7fG7/Item-16.png",
     subtitle: "EXCLUSIVE",
     rare: true
   },
   {
     title: "KENJI",
     subtitle: "NEW LEGENDARY BRAWLER",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/3/3d/Kenji_Skin-Default.png",
+    image: "https://i.postimg.cc/3J0N8RSq/Item-3-webp.png",
     rare: true
   },
   {
     title: "BRAWL PASS PLUS",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/0/07/Brawl_Pass_Plus_Icon.png",
+    image: "https://i.postimg.cc/2jMjKYjN/Item-10-1.png",
     subtitle: "SEASON 30"
   },
   {
-    title: "MORTIS",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Mortis_Skin-Default.png",
+    title: "SIRIUS BRAWLER",
+    image: "https://i.postimg.cc/mZz1D8tW/Sirius-Skin-Default.png",
     subtitle: "MYTHIC BRAWLER"
   },
   {
     title: "ULTRA BOX",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/a/a1/Omega_Box.png",
+    image: "https://i.postimg.cc/VLPvNwxC/Item-11.png",
     subtitle: "ULTRA RARE",
     rare: true
   },
   {
     title: "BUFFIES",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/7/7e/Pin_Skull.png",
+    image: "https://i.postimg.cc/FRJF9CG1/Item-2-webp.png",
     subtitle: "COLLECTIBLE"
   },
   {
     title: "VALENTINE'S BOX",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/3/30/Gift_Box.png",
+    image: "https://i.postimg.cc/q7N4LDPm/Item-15.png",
     subtitle: "SPECIAL EVENT"
   },
   {
     title: "KEYS",
-    image: "https://static.wikia.nocookie.net/brawlstars/images/a/a7/Key.png",
+    image: "https://i.postimg.cc/TYTxSP8c/Item-4-webp.png",
     subtitle: "100x PACK"
   }
 ];
